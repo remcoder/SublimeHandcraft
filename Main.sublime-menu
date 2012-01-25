@@ -1,0 +1,25 @@
+[
+  {
+    "id": "tools",
+    "children":
+    [
+      {
+        "id": "Handcraft",
+        "caption" : "Handcraft",
+        "children":
+        [
+          {
+            "id" : "handcraft_list_sheets",
+            "caption" : "List Sheets",
+            "command" : "handcraft_list_sheets"
+          },
+          {
+            "id" : "handcraft_save",
+            "caption" : "Save to Handcraft",
+            "command" : "handcraft_save"
+          }
+        ]
+      }
+    ]
+  }
+]
