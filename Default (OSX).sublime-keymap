@@ -1,0 +1,8 @@
+[
+  {
+    "keys": ["super+shift+h"], "command": "handcraft_list_sheets"
+  },
+  {
+    "keys": ["super+alt+h"], "command": "handcraft_save"
+  }
+]

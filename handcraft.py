@@ -1,3 +1,6 @@
+# (c) Remco Veldkamp 2012
+# MIT License
+
 import sublime, sublime_plugin
 from xml.dom import minidom
 import urllib, logging, urllib2, sys
